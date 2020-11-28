@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "charm:block/redstone_lantern_on",
+		"material": "canvas:redstone"
+	  }
+	]
+  }
+}

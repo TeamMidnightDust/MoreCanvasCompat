@@ -1,0 +1,4 @@
+{
+  "vertexSource": "canvas:shaders/material/default.vert",
+  "fragmentSource": "canvascompat:shaders/material/cryptic_glow.frag"
+}

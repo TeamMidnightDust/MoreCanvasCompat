@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "minecraft:block/smoker_front_on",
+		"material": "canvas:smoker"
+	  }
+	]
+  }
+}

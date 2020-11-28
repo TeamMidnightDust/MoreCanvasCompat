@@ -1,0 +1,13 @@
+{
+ 	"map": [
+  		{
+			"predicate": {
+	  			"materialPredicate": {
+	  				"texture": "midnight-hats:textures/hats/motschen"
+	  			}
+	  		},
+		  	"material": "canvas:emissive_transform"
+		}
+  	]
+}
+

@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "minecraft:block/poppy",
+		"material": "canvas:low_foliage"
+	  }
+	]
+  }
+}

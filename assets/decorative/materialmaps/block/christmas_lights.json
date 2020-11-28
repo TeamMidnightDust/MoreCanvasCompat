@@ -1,0 +1,14 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "decorative:block/red_lamp",
+		"material": "canvas:emissive_no_diffuse"
+	  },
+	  {
+		"sprite": "decorative:block/green_lamp",
+		"material": "canvas:emissive_no_diffuse"
+	  }
+	]
+  }
+}

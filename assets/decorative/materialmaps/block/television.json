@@ -1,0 +1,22 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "decorative:tv/nyancat",
+		"material": "canvas:emissive_no_diffuse"
+	  },
+	  {
+		"sprite": "decorative:tv/creeper",
+		"material": "canvas:emissive_no_diffuse"
+	  },
+	  {
+		"sprite": "decorative:tv/woodys",
+		"material": "canvas:emissive_no_diffuse"
+	  },
+	  {
+		"sprite": "decorative:tv/tater",
+		"material": "canvas:emissive_no_diffuse"
+	  }
+	]
+  }
+}

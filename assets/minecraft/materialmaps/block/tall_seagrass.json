@@ -1,0 +1,8 @@
+{
+  	"defaultMaterial": "fabric:standard",
+
+  	"variants": {
+	    "half=lower": { "defaultMaterial": "canvas:low_foliage" },
+	    "half=upper": { "defaultMaterial": "canvas:high_foliage" }
+  	}
+}
