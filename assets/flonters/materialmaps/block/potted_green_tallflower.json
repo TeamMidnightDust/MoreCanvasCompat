@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "flonters:block/potted_green_tallflower_bottom" },
+        "half=upper":    { "model": "flonters:block/potted_green_tallflower_top" }
+    }
+}

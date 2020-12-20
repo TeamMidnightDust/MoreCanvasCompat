@@ -1,9 +1,0 @@
-{
-  "id": "canvascompat",
-  "version": 1,
-  "conf": {
-    "glowingGold": true,
-    "sunColorFactor": 0.8,
-    "waterColorFactor": 1
-  }
-}

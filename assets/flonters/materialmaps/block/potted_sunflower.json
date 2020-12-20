@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "flonters:block/potted_sunflower_bottom" },
+        "half=upper":    { "model": "flonters:block/potted_sunflower_top" }
+    }
+}

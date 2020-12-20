@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "flonters:block/potted_peony_bottom" },
+        "half=upper":    { "model": "flonters:block/potted_peony_top" }
+    }
+}

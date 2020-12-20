@@ -1,0 +1,7 @@
+{
+  	"defaultMaterial": "fabric:standard",
+
+  	"variants": {
+	    "lit=true": { "defaultMaterial": "canvas:emissive_no_diffuse" }
+  	}
+}
